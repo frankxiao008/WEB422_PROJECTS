@@ -1,0 +1,12 @@
+
+D:\web422folder\assignment-2\src\index.js
+  60:42  warning  Expected '===' and instead saw '=='  eqeqeq
+  61:41  warning  Expected '===' and instead saw '=='  eqeqeq
+  62:54  warning  Expected '===' and instead saw '=='  eqeqeq
+  70:20  warning  Expected '===' and instead saw '=='  eqeqeq
+  72:15  warning  Expected '===' and instead saw '=='  eqeqeq
+  74:12  warning  Unnecessary 'else' after 'return'    no-else-return
+
+✖ 6 problems (0 errors, 6 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
